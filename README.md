@@ -46,7 +46,7 @@ python delete_app.py
 
 ## Documentation
 
-See: [Ledger Nano S Web Wallet and APDU API Documentation](https://github.com/IOTA-Ledger/blue-app-iota/blob/master/Ledger%20Nano%20S%20Web%20Wallet%20and%20APDU%20API%20Documentation%20and%20implementation.md)
+See: [blue-app-iota README](https://github.com/IOTA-Ledger/blue-app-iota/blob/master/README.md)
 
 ## Contributing
 
