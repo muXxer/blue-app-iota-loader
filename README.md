@@ -53,7 +53,7 @@ See: [blue-app-iota README](https://github.com/IOTA-Ledger/blue-app-iota/blob/ma
 ### Donations
 Would you like to donate to help the development team? Send some IOTA to the following address:
 ```
-J9KPGBTWIKTRBIWXNDCZUWWWVVESYVISFJIY9GCMGVLQXFJBDAKLLN9PNAZOOUZFZDGDSFPWCTJYILDF9WOEVDQVMY
+ADLJXS9SKYQKMVQFXR9JDUUJHJWGDNWHQZMDGJFGZOX9BZEKDSXBSPZTTWEYPTNM9OZMYDQWZXFHRTXRCOITXAGCJZ
 ```
 Please know that the donations made to this address will be shared with everyone who contributes (the contributions has to be worth something, of course)
 
