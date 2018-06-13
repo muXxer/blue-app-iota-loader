@@ -55,8 +55,7 @@ Would you like to donate to help the development team? Send some IOTA to the fol
 ```
 ADLJXS9SKYQKMVQFXR9JDUUJHJWGDNWHQZMDGJFGZOX9BZEKDSXBSPZTTWEYPTNM9OZMYDQWZXFHRTXRCOITXAGCJZ
 ```
-
-<img align="center" src="resources/ledger_donation.png" alt="IOTA Ledger Donation">
+![IOTA Ledger Donation](resources/ledger_donation.png)
 
 Please know that the donations made to this address will be shared with everyone who contributes (the contributions has to be worth something, of course)
 
